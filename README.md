@@ -13,14 +13,14 @@ The **Weather Fetcher App** is a Java EE project designed to fetch and display r
 **Step 3.** Open NetBeans and navigate to the folder where you cloned or downloaded the project. Select the project to open it.
 
 **Step 4.** Start the Tomcat server, then run the project in NetBeans. Access the application in your browser at:
-http://localhost:8080/WeatherFetcherApp/weather
+http://localhost:8080/WeatherMonitoring/weather
 
 ## Features ##
 1.**Real-time Weather Data**: Retrieves up-to-date weather information including temperature, perceived temperature, and dominant weather condition.<br>
 2.**Weather Simulation**: Simulates daily weather data with options to retrieve a daily summary.<br>
-3.**Custom Alerts**: Set threshold values to trigger alerts for extreme weather conditions (e.g., Storm, temperature limits).
-4.**Daily Summary**: Provides the average, maximum, and minimum temperatures for a selected city<br>.
-5.**Configurable Update Interval**: The app calls the OpenWeatherMap API at a specified interval to keep data current.
+3.**Custom Alerts**: Set threshold values to trigger alerts for extreme weather conditions (e.g., Storm, temperature limits).<br>
+4.**Daily Summary**: Provides the average, maximum, and minimum temperatures for a selected city. <br>
+5.**Configurable Update Interval**: The app calls the OpenWeatherMap API at a specified interval to keep data current.<br>
 
 ## Techologies Used
 ### 1. Front-end Technologies
